@@ -1,16 +1,25 @@
-### Hi there 👋
+### < a little about myself />
+- Web Developer. 👨 💻
+- Geek on my spare time 🤓 🎮
+- Extremely curios, always looking to learn something new 📚
+- Fun fact: the key to my heart is cooking me pasta 🍝
 
-<!--
-**omarBaldi/omarBaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### < what I'm working on? />
+- Currently working on Javascript related projects
+- Front-End skills: HTML, CSS(SASS), Javascript, Vue, Responsive Design
+- Back-End skills: NodeJs, Express, Socket
+- Preferred database: MongoDB, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### Stay in touch with me:
+[<img align="left" alt="Omar instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+
+
+[instagram]: https://www.instagram.com/__omarbaldi/
+
+
