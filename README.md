@@ -15,7 +15,7 @@
 <br/>
 
 ### Stay in touch with me:
-[<img align="left" alt="Omar instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Omar instagram" width="20px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
