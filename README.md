@@ -1,11 +1,13 @@
-### A little bit about myself
+## Hello everyone! 😊
+
+#### A little bit about myself
 - Web Developer. 👨 💻
 - Geek on my spare time 🤓 🎮
 - Extremely curios, always looking to learn something new 📚
 - Fun fact: the key to my heart is cooking me pasta 🍝
 
 
-### What I'm working on?
+#### What I'm working on?
 - Currently working on Javascript related projects
 - Front-End skills: HTML, CSS(SASS), Javascript, Vue, Responsive Design
 - Back-End skills: NodeJs, Express, Socket
