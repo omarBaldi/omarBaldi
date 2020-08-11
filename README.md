@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-### Stay in touch with me:
+#### Stay in touch with me:
 [<img align="left" alt="Omar instagram" color="white" width="15px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
