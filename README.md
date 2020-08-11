@@ -1,7 +1,7 @@
 ## Hello everyone! 😊
 
 #### A little bit about myself
-- Web Developer. 👨 💻
+- Web Dev. Specialised on front-end development. 👨 💻
 - Geek on my spare time 🤓 🎮
 - Extremely curios, always looking to learn something new 📚
 - Fun fact: the key to my heart is cooking me pasta 🍝
